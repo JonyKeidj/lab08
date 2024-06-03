@@ -1,4 +1,4 @@
-Михайлов Виталий, lab8
+Бельков Даниил, lab8
 
 ## Laboratory work VIII
 
